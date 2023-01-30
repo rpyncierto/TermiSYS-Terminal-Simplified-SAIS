@@ -1,0 +1,22 @@
+CMSC12,3,Foundations of Computer Science,KMTAN,E,1,TTH,40,0
+CMSC21,3,Fundamentals of Programming,IUAGUILA,P,1,TTH,40,0
+CMSC57,3,Discrete Mathematical Structures in Computer Science II,KGVEGA,U,1,TTH,40,0
+CMSC22,3,Object-Oriented Programming,RVBULALACAO,F,1,TTH,40,0
+CMSC123,3,Data Structures,MBTANDOC,J,1,TTH,40,0
+CMSC130,3,Logic Design and Digital Computer Circuits,JARAMIREZ,Q,1,WF,40,0
+CMSC150,3,Numerical & Symbolic Computation,MDQUELISTE,B,1,TTH,40,0
+CMSC23,3,Mobile Computing,JEPLARAS,C,1,TTH,40,0
+CMSC100,3,Web Programming,MGCC,M,1,TTH,40,0
+CMSC127,3,File Processing and Database Systems,CMPERALTA,O,1,WF,40,0
+CMSC131,3,Introduction to Computer Organization and Machine-Level Programming,KPPELAEZ,K,1,WF,40,0
+CMSC124,3,Design and Implementation of Programming Languages,RGOBRERO,G,1,WF,40,0
+CMSC125,3,Operating Systems,MCLAURON,R,1,TTH,40,0
+CMSC132,3,Computer Architecture,LRLACTUAN,I,1,WF,40,0
+CMSC141,3,Automata and Language Theory,KGJAEN,S,1,WF,40,0
+CMSC170,3,Introduction to Artificial Intelligence,EFFALLARME,N,1,TTH,40,0
+CMSC128,3,Introduction to Software Engineering,RVBULALACAO,T,1,TTH,40,0
+CMSC137,3,Data Communications and Networking,JIENCINAS,H,1,WF,40,0
+CMSC142,3,Design and Analysis of Algorithms,GCEMALADA,L,1,WF,40,0
+CMSC173,3,Human-Computer Interaction,DLDRIO,D,1,WF,40,0
+CMSC180,3,Introduction to Parallel Computing,JJBAWAGAN,A,1,WF,40,0
+CMSC56,3,Discrete Mathematical Structures in Computer Science I,PCARAGONES,WX,1,WF,40,0
